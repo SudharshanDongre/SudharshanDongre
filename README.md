@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sudharshan!;Computer+Science+Student;Networking and + AI/ML ;Graphics Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sudharshan!;Computer+Science+Student;Networking+%26+AI%2FML;Graphics+Designer" alt="Typing Animation" />
 </p>
 
 
