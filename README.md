@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sudharshan%20Dongre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Graphics%20Head&descAlignY=62&descSize=20)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sudharshan!;Computer+Science+Student;BNetworking +Tech;Graphics Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sudharshan!;Computer+Science+Student;BNetworking + AI/ML ;Graphics Designer" alt="Typing Animation" />
 </p>
 
 
