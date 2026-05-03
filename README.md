@@ -22,5 +22,8 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=SudharshanDongre&icon=0&color=0)](https://visitcount.itsvg.in)
-        
-![Snake Animation](https://github.com/SudharshanDongre/SudharshanDongre/blob/output/github-contribution-grid-snake.svg)
+        <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudharshanDongre/SudharshanDongre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudharshanDongre/SudharshanDongre/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SudharshanDongre/SudharshanDongre/output/github-contribution-grid-snake.svg">
+</picture>
