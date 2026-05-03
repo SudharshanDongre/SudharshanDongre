@@ -1,3 +1,11 @@
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sudharshan%20Dongre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20Graphics%20Head&descAlignY=62&descSize=20)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sudharshan!;Computer+Science+Student;BNetworking +Tech;Graphics Designer" alt="Typing Animation" />
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Improving my project Phishvision, while building clean and user-friendly web applications<br><br>👯 I’m looking to collaborate on<br>Creative web apps, automation tools, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br>Understanding advanced Machine Learning concepts and designing scalable backend systems<br><br>🌱 I’m currently learning<br>Machine Learning, Data Structures & Algorithms, and strengthening my networking fundamentals<br><br>💬 Ask me about<br>Web development, Python projects, networking basics, and building simple automation tools<br><br>⚡ Fun fact<br>I like turning everyday problems into projects — sometimes even before fully planning them 😄<br>
 
@@ -15,3 +23,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=SudharshanDongre&icon=0&color=0)](https://visitcount.itsvg.in)
         
+![Snake Animation](https://github.com/SudharshanDongre/SudharshanDongre/blob/output/github-contribution-grid-snake.svg)
