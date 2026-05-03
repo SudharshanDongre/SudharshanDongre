@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=200&section=header&text=Sudharshan%20Dongre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Graphics%20Head%20•%20Medi-Caps%20University%20•%20PhishVision%20Developer&descAlignY=62&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Sudharshan%20Dongre&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Graphics%20Head%20•%20PhishVision%20Developer%20•%20Medi-Caps%20University&descAlignY=62&descSize=20)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sudharshan!;Computer+Science+Student;Networking+%26+AI%2FML;Graphics+Designer" alt="Typing Animation" />
