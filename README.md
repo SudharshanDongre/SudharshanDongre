@@ -6,7 +6,6 @@
 
 
 
-# 💫 About Me:
 🔭 I’m currently working on<br>Improving my project Phishvision, while building clean and user-friendly web applications<br><br>👯 I’m looking to collaborate on<br>Creative web apps, automation tools, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br>Understanding advanced Machine Learning concepts and designing scalable backend systems<br><br>
 
 
