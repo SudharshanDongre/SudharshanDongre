@@ -6,8 +6,8 @@
 
 
 
-🔭 I’m currently working on<br>Improving my project Phishvision, while building clean and user-friendly web applications<br><br>👯 I’m looking to collaborate on<br>Creative web apps, automation tools, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br>Understanding advanced Machine Learning concepts and designing scalable backend systems<br><br>
-
+🔭 I’m currently working on<br>Improving my personal voice-assistant, while building clean and user-friendly web applications<br><br>👯 I’m looking to collaborate on<br>Creative web apps, automation tools, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br>Understanding advanced Machine Learning concepts and designing scalable backend systems<br><br>
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudarshnnn?igsh=MWl6dmlienhxNGxmZQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudharshandongre) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sudarshnn?si=Ujp2kDhXHTM_otfX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshandongre10gmail.com) 
