@@ -10,8 +10,7 @@
  
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudharshandongre) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?
-logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sudarshnn?si=Ujp2kDhXHTM_otfX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudarshnnn?igsh=MWl6dmlienhxNGxmZQ==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshandongre10gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudharshandongre) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?_logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sudarshnn?si=Ujp2kDhXHTM_otfX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudarshnnn?igsh=MWl6dmlienhxNGxmZQ==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshandongre10gmail.com) 
 
 🌱 I’m currently learning<br>Machine Learning, Data Structures & Algorithms, and strengthening my networking fundamentals<br><br>💬 Ask me about<br>Web development, Python projects, networking basics, and building simple automation tools<br><br>
 # 💻 Tech Stack:
