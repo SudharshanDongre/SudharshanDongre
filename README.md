@@ -94,7 +94,7 @@ Web development, Python projects, networking basics, and building simple automat
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudharshanDongre&theme=nightowl" alt="Most Commit Language" />
 </p>
 ---
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudharshanDongre/SudharshanDongre/output/github-contribution-grid-snake-dark.svg">
