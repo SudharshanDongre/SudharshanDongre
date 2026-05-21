@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=𝑺𝒖𝒅𝒉𝒂𝒓𝒔𝒉𝒂𝒏%20𝑫𝒐𝒏𝒈𝒓𝒆&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sudharshan!;Computer+Science+Student;Networking+%26+AI%2FML+Enthusiast;Graphics+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sudharshan!;Python+Developer;Networking+%26+AI%2FML+Enthusiast;Graphics+Designer" alt="Typing Animation" />
 </p>
 
 <h3 align="center">🚀 Passionate about building intelligent systems and creative web applications</h3>
