@@ -78,13 +78,16 @@ Web development, Python projects, networking basics, and building simple automat
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
