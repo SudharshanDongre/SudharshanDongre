@@ -80,17 +80,20 @@ Web development, Python projects, networking basics, and building simple automat
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudharshanDongre&theme=nightowl" alt="Profile Details" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudharshanDongre&theme=nightowl" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudharshanDongre&theme=nightowl&utcOffset=5.5" alt="Productive Time" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudharshanDongre&theme=nightowl" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudharshanDongre&theme=nightowl" alt="Most Commit Language" />
+</p>
 ---
-
 ## 🐍 Contribution Snake
 
 <picture>
