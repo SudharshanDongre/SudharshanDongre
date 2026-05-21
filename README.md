@@ -80,14 +80,15 @@ Web development, Python projects, networking basics, and building simple automat
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 ---
 
 ## 🐍 Contribution Snake
