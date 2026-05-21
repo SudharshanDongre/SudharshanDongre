@@ -81,17 +81,9 @@ Web development, Python projects, networking basics, and building simple automat
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SudharshanDongre&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SudharshanDongre&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
