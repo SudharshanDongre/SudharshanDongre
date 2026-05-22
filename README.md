@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+ 
 🔭 **Currently Working On**  
 Improving my personal voice-assistant and building clean, user-friendly web applications
 
