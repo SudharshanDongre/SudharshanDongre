@@ -12,7 +12,7 @@
 
  
 🔭 **Currently Working On**  
-Improving my personal voice-assistant and building clean, user-friendly web applications
+Improving FindX and building clean, user-friendly web applications
 
 🌱 **Currently Learning**  
 Machine Learning, Data Structures & Algorithms, and strengthening my networking fundamentals
