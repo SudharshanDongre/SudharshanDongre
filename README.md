@@ -11,7 +11,6 @@
 
 ## 👨‍💻 About Me
 
- 
 🔭 **Currently Working On**  
 Improving FindX and building clean, user-friendly web applications
 
