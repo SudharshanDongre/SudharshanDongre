@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 🔭 **Currently Working On**  
-Improving FindX and building clean, user-friendly web applications
+Improving Networking skills and building clean, user-friendly web applications
 
 🌱 **Currently Learning**  
 Machine Learning, Data Structures & Algorithms, and strengthening my networking fundamentals
