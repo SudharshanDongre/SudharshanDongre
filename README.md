@@ -18,19 +18,9 @@
 🔭 **Currently Working On**  
 Improving Networking skills and building clean, user-friendly web applications
 
-🌱 **Currently Learning**  
-Machine Learning, Data Structures & Algorithms, and strengthening my networking fundamentals
-
 👯 **Looking to Collaborate On**  
 Creative web apps, automation tools, and beginner-friendly open-source projects
 
-🤝 **Looking for Help With**  
-Understanding advanced Machine Learning concepts and designing scalable backend systems
-
-💬 **Ask Me About**  
-Web development, Python projects, networking basics, and building simple automation tools
-
----
 
 ## 🌐 Connect With Me
 
