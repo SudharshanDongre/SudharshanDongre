@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">🚀 Passionate about Networking and building cool things</h3>
+<h3 align="center">🚀 Searching a good place to fit and building cool things</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SudharshanDongre&style=for-the-badge&color=blue" alt="Profile Views"/>
@@ -44,7 +44,6 @@ Creative web apps, automation tools, and beginner-friendly open-source projects
 ## 💻 Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
